@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://emliea.github.io/Irm/sitemap.Irm.gz
